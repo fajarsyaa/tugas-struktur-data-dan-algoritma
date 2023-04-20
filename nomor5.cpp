@@ -4,13 +4,12 @@ using namespace std;
 
 int main()
 {
-    bool umur;
+    float umur;
     int tinggi;
 
     cout << "Masukkan Umur = ";
     cin >> umur;
-
-    cout << "Masukkan Tinggi = ";
+    cout << "Masukkan Tinggi badan = ";
     cin >> tinggi;
 
     if (umur < 1)
